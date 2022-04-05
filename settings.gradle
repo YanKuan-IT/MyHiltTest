@@ -1,0 +1,5 @@
+rootProject.name = "MyHiltTest"
+include ':app'
+include ':mytest1'
+include ':mytest2'
+include ':mytest3'
